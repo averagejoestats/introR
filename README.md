@@ -2,6 +2,11 @@
 
 Learning Materials for Intro to R course
 
+## Module 01
+
+[Video](https://youtu.be/9Psu77Zo8V8)
+[Homework](homework/homework01_ames.R)
+
 ## Course Videos
 
 [Course Playlist](https://www.youtube.com/@AverageJoeStats/playlists)
