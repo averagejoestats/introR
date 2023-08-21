@@ -32,13 +32,11 @@
 # this is a comment
 
 
-# understand your working directory - global vs local paths
+# understand your working directory - global vs local or relative paths
 
 
 # read in a dataset (titanic data)
 # source: https://hbiostat.org/data/
-# also available at: 
-# https://raw.githubusercontent.com/averagejoestats/introR/main/datasets/titanic5.csv
 
 
 # csv and data.frame store a table of data
@@ -70,7 +68,7 @@
 # what happened with 'x' and 'digits'?
 
 
-# you can also typing commands directly in the console
+# you can also type commands directly in the console
 # same as running them from the script
 
 
@@ -85,3 +83,6 @@
 
 
 # saving your data frame as an RData object
+
+
+
