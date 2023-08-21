@@ -15,7 +15,7 @@ Learning Materials for Intro to R course
 ## R and RStudio
 
 [Installing R](https://cran.r-project.org/)   
-[R tutorial from CRAN](https://cran.r-project.org/doc/manuals/R-intro.pdf) (Chapters 1-5 will get you up to speed)  
+[R tutorial from CRAN](https://cran.r-project.org/doc/manuals/R-intro.pdf)   
 [Other R manuals](https://cran.r-project.org/manuals.html)   
 [Installing RStudio](https://posit.co/download/rstudio-desktop/)  
 
