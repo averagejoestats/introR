@@ -2,6 +2,11 @@
 
 Learning Materials for Intro to R course
 
+## Module 02
+
+[Video](https://youtu.be/7bomvYLVH20)   
+[Homework](homework/homework02_ithaca_weather.R)
+
 ## Module 01
 
 [Video](https://youtu.be/9Psu77Zo8V8)   
