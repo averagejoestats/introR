@@ -59,5 +59,5 @@
 
 # print out the first 10 rows.
 
-# plot 3pm temperature against 7am temperature to verify that you see
+# plot 3pm temperature against 9am temperature to verify that you see
 # a relationship
