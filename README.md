@@ -2,6 +2,11 @@
 
 Learning Materials for Intro to R course
 
+## Module 03
+
+[Video](https://youtu.be/-41Aja7-bpw)   
+[Homework](homework/homework03_gradebook.R)
+
 ## Module 02
 
 [Video](https://youtu.be/7bomvYLVH20)   
