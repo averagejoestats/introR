@@ -2,6 +2,11 @@
 
 Learning Materials for Intro to R course
 
+## Module 04
+
+[Video](https://youtu.be/l_XIAdUis1o)   
+[Homework](homework/homework04_hurdat_functions.R)
+
 ## Module 03
 
 [Video](https://youtu.be/-41Aja7-bpw)   
