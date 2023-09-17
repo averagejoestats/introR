@@ -7,3 +7,6 @@
 
 # You should use the maps package to draw the maps.
 # Spend some time reading the documentation for the "map" function.
+
+# Turn in both your code in pdf format, and the plot in pdf format
+# in a separate file.
