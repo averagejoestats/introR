@@ -2,6 +2,11 @@
 
 Learning Materials for Intro to R course
 
+## Module 05
+
+[Video](https://youtu.be/byviVYFw1Mw)   
+[Homework](homework/homework05_storm_map.R)
+
 ## Module 04
 
 [Video](https://youtu.be/l_XIAdUis1o)   
