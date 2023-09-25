@@ -2,6 +2,11 @@
 
 Learning Materials for Intro to R course
 
+## Module 06
+
+[Video](https://youtu.be/ezCePedKsSw)   
+[Homework](homework/homework06_marathon.R)
+
 ## Module 05
 
 [Video](https://youtu.be/byviVYFw1Mw)   
