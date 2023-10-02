@@ -2,6 +2,11 @@
 
 Learning Materials for Intro to R course
 
+## Module 07
+
+[Video](https://youtu.be/I6GNHC5JF30)   
+[Homework](homework/homework07_astronomy.R)
+
 ## Module 06
 
 [Video](https://youtu.be/ezCePedKsSw)   
